@@ -1,4 +1,4 @@
-# Operating Systems Lab
+# Operating System Lab
 
 **Name:** R Nandini
 
